@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\CAN\\Downloads\\Diary-Project-master\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_maps.xml",
+        "source": "C:\\Users\\CAN\\Downloads\\Diary-Project-master\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\CAN\\Downloads\\Diary-Project-master\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\CAN\\Downloads\\Diary-Project-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\CAN\\Downloads\\Diary-Project-master\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_details_add.xml",
+        "source": "C:\\Users\\CAN\\Downloads\\Diary-Project-master\\app\\src\\main\\res\\layout\\activity_details_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\CAN\\Downloads\\Diary-Project-master\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\recyclearview_row.xml",
+        "source": "C:\\Users\\CAN\\Downloads\\Diary-Project-master\\app\\src\\main\\res\\layout\\recyclearview_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\CAN\\Downloads\\Diary-Project-master\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_details_add_view.xml",
+        "source": "C:\\Users\\CAN\\Downloads\\Diary-Project-master\\app\\src\\main\\res\\layout\\activity_details_add_view.xml"
+    }
+]
